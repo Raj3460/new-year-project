@@ -1,53 +1,53 @@
 *{
-/* margin-left: 140px;margin-right: 140px; */
-/* margin-left: 240px; */
-/* margin-right: 240px; */
-}
-/* picture 1 */
-.h-pic{
-       margin-top: 40px;
-       text-align: center;
-       /* width: 1320px; */
-       /* height: px; */
-
-}
-.h-in-pic{
-       width: 1320px;
-       height: 600px;
-}
-/* .picture1 done */
-
-/* picture 2 */
-.overall-h-div{
-       width: 803px;
-       height: 806px;
-       text-align: center;
+       /* margin-left: 140px;margin-right: 140px; */
+       /* margin-left: 240px; */
+       /* margin-right: 240px; */
+       }
+       /* picture 1 */
+       .h-pic{
+              margin-top: 40px;
+              text-align: center;
+              /* width: 1320px; */
+              /* height: px; */
        
-       margin-left: 529px;
-       margin-bottom: 40px;
-
-}
-.header-title{
-
-       font-size: 88px;
-       font-weight: bold;
-       color: #FF0000;
-       margin-top: 48px;
-}
-.header-inside-title-1{
-       color: #FF0000;
-       font-size: 24px;
-       font-weight: bold;
-}
-.header-inside-title-2{
-       font-size: 48px;
-       font-weight: bold;
-       color: #070211;
-
-}
-.h-in-pic2{
-       height: 500px;
-       width: 803px;
-
-
-}
+       }
+       .h-in-pic{
+              width: 1320px;
+              height: 600px;
+       }
+       /* .picture1 done */
+       
+       /* picture 2 */
+       .overall-h-div{
+              width: 803px;
+              height: 806px;
+              text-align: center;
+              
+              margin-left: 529px;
+              margin-bottom: 40px;
+       
+       }
+       .header-title{
+       
+              font-size: 88px;
+              font-weight: bold;
+              color: #FF0000;
+              margin-top: 48px;
+       }
+       .header-inside-title-1{
+              color: #FF0000;
+              font-size: 24px;
+              font-weight: bold;
+       }
+       .header-inside-title-2{
+              font-size: 48px;
+              font-weight: bold;
+              color: #070211;
+       
+       }
+       .h-in-pic2{
+              height: 500px;
+              width: 803px;
+       
+       
+       }
