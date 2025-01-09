@@ -51,3 +51,59 @@
        
        
        }
+       /* picture 2 done */
+       /* picture 3 start */
+.overall-h-div2{
+    /* align-items: center;    */
+
+background-image: url(../images/Vectorrr.png);
+display: flex;
+/* margin-top: 40px; */
+              /* text-align: center; */
+              background-repeat: no-repeat;
+              margin-left: 300px;
+              /* padding: 68px 140px ; */
+              width: 1320px;
+              height: 600px;
+
+}
+.header-title2{
+     font-size: 64px; 
+     color: #FFFFFF;
+     width: 642px; 
+     height: 176px;
+     margin-bottom: 24px;
+}
+.header-title22223{
+       width: 697px;
+       height: 60px;
+       color: #FFFFFF;
+       font-size: 18px;
+
+
+}
+.join{
+       width: 103px;
+       height: 24px;
+       color: #FFFFFF;
+       font-size: 20px;
+       margin-left: 50px;
+
+
+}
+.overall-h-div2{
+       padding: 84px;
+       /* padding: left 50px; ; */
+       /* padding-right: 100px; */
+       
+}
+.overall-h-div2-texts{
+       padding-left: 130px;
+}
+.h-in-pic3{
+       width: 279.82px;
+       height: 404px;
+       /* margin-left: 100px; */
+       /* padding-right: 100px; */
+       
+}
