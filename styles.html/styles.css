@@ -4,8 +4,9 @@
        /* margin-right: 240px; */
        }
        /* picture 1 */
+       
        .h-pic{
-              margin-top: 40px;
+              /* margin-top: 40px; */
               text-align: center;
               /* width: 1320px; */
               /* height: px; */
@@ -15,7 +16,7 @@
        .h-in-pic{
               width: 1320px;
               height: 600px;
-              margin-left: 230px;
+              /* margin-left: 230px; */
        }
        /* .picture1 done */
        
@@ -25,8 +26,9 @@
               height: 806px;
               text-align: center;
               
-              margin-left: 529px;
-              margin-bottom: 40px;
+              /* margin-left: 2029px; */
+              /* margin-bottom: 40px; */
+              margin: 0% auto;
        
        }
        .header-title{
@@ -57,16 +59,24 @@
        /* picture 3 start */
 .overall-h-div2{
     /* align-items: center;    */
+    border-radius: 16px;
+
+/* background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%); */
 
 background-image: url(../images/Vectorrr.png);
 display: flex;
 /* margin-top: 40px; */
               /* text-align: center; */
               background-repeat: no-repeat;
-              margin-left: 300px;
-              /* padding: 68px 140px ; */
+              /* margin-left: 300px; */
+              padding: 68px 140px ;
               width: 1320px;
               height: 600px;
+              ;
+              border-radius: 16px;
+              margin: 0% auto;
+
+/* background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%); */
 
 }
 .header-title2{
@@ -93,14 +103,14 @@ display: flex;
 
 
 }
-.overall-h-div2{
+/* .overall-h-div2{ */
        padding: 84px;
        /* padding: left 50px; ; */
        /* padding-right: 100px; */
        
 }
 .overall-h-div2-texts{
-       padding-left: 130px;
+       /* padding-left: 130px; */
 }
 .h-in-pic3{
        width: 279.82px;
